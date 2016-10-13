@@ -1,12 +1,16 @@
 {
-  "name": "refaker",
-  "version": "0.3.1",
+  "name": "refaker-local-id",
+  "version": "0.0.0",
   "description": "Download or fake JSON schemas from $ref values",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/json-schema-faker/refaker"
+    "url": "https://github.com/forivall/refaker-local-id"
   },
+  "author": "Jordan J Klassen <forivall@gmail.com>",
+  "contributors": [
+    "Alvaro Cabrera"
+  ],
   "license": "MIT",
   "devDependencies": {
     "clone": "^1.0.2",
